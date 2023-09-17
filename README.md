@@ -23,7 +23,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abhishekch33&limit=5&theme=chalk&combine_all_yearly_contributions=true)
-<img align="right" width="280px" height="220px" src="https://i.giphy.com/media/LMcB8XospGZO8UQq87/giphy.webp">
+<img align="right" width="280px" height="210px" src="https://i.giphy.com/media/LMcB8XospGZO8UQq87/giphy.webp">
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
