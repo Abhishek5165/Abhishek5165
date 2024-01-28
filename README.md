@@ -7,8 +7,9 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhishek_v13/) 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?github&logoColor=white)](https://Github.com/https://github.com/abhishekch33) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/https://www.instagram.com/abhishek_v13/](https://www.instagram.com/abhishek_v13/))
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?github&logoColor=white)]
+[(https://Github.com/https://github.com/abhishekch33)](https://github.com/Abhishek5165) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-verma-600899247/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Abhishek_13107) 
 
@@ -23,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhishekch33&limit=5&theme=chalk&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Abhishek5165&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 <img align="right" width="280px" height="210px" src="https://i.giphy.com/media/LMcB8XospGZO8UQq87/giphy.webp">
 
 ### 😂 Random Dev Meme
