@@ -1,6 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=40&pause=1000&color=F736BF&background=FF234300&center=true&vCenter=true&random=true&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Abhishek+Verma+👨‍💻"/>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=1000&size=60&pause=1000&color=41B06E&center=true&vCenter=true&random=true&width=600&height=130&lines=Hello+Everyone!%F0%9F%91%8B;I'm+Abhishek+Verma%F0%9F%A4%B5%E2%80%8D%E2%99%82%EF%B8%8F"/></h1>
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="500" height="325px" position="relative" top="100px" src="https://previews.123rf.com/images/peshkov/peshkov1908/peshkov190800349/129442355-hacker-at-desktop-using-laptop-with-creative-glowing-big-data-interface-malware-and-futuristic.jpg">
