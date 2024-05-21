@@ -19,14 +19,10 @@
 ![JAVASCRIPT](https://img.shields.io/badge/javaScript-%23E34F26?style=plastic&logo=javascript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%2320232a.svg?style=plastic&logo=jquery&logoColor=%231572B6)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishek5165&theme=buefy&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek5165&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek5165&theme=buefy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhishek5165&limit=5&theme=chalk&combine_all_yearly_contributions=true)
-<img align="right" width="280px" height="210px" src="https://i.giphy.com/media/LMcB8XospGZO8UQq87/giphy.webp">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek5165&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek5165&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
+</div>
