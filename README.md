@@ -33,3 +33,5 @@
 ![](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek5165&theme=vue-dark&border_radius=5.1&card_width=1000)](https://git.io/streak-stats)
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder" width="100%" height="35%" alt="Jokes Card" />
