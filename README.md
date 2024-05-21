@@ -4,7 +4,7 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="500" height="325px" position="relative" top="100px" src="https://previews.123rf.com/images/peshkov/peshkov1908/peshkov190800349/129442355-hacker-at-desktop-using-laptop-with-creative-glowing-big-data-interface-malware-and-futuristic.jpg">
 👋 Hello I'm <strong> Abhishek !</strong><br>😊 A passionate web developer from India.<br>📕I am currently pursuing my B.Tech from Indian Institute of Information Technology Bhagalpur,Bihar.<br><br>🤝I love to work in groups where everyone can voice their opinions and ideas.<br>
-🏏I like to play chess and cricket.<br>🌱 I’m currently learning <strong> Django, Node JS, PHP</strong><br>💬 Ask me about DSA , Web<br>📫 Email Me - <a href="https://gmail.com">abhishek1310verma@gmail.com</a>
+🏏I like to play chess and cricket.<br>🌱 I’m currently learning <strong> Django, Node JS </strong><br>💬 Ask me about DSA , Web<br>📫 Email Me - <a href="https://gmail.com">abhishek1310verma@gmail.com</a>
 
 
 ## 🌐 Socials:
