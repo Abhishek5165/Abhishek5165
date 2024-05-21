@@ -8,7 +8,7 @@
 🏏I like to play chess and cricket.<br>🌱 I’m currently learning <strong> Django, Node JS </strong><br>💬 Ask me about DSA , Web<br>📫 Email Me - <a href="https://gmail.com">abhishek1310verma@gmail.com</a>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhishek_v13/)
 [![Github](https://img.shields.io/badge/Github-%231DA1F2.svg?logo=github&logoColor=white)](https://github.com/Abhishek5165)
