@@ -1,11 +1,12 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=1000&size=60&pause=1000&color=41B06E&center=true&vCenter=true&random=true&width=600&height=130&lines=Hello+Everyone!%F0%9F%91%8B;I'm+Abhishek+Verma%F0%9F%A4%B5%E2%80%8D%E2%99%82%EF%B8%8F"/></h1>
 
-# Let's get into my journey!
+# Let's get into my journey !
 
-📍 **Location:** Lucknow, Uttar Pradesh <br>
-🏛️ **Education:**  Indian Institute of Information Technology, Bhagalpur (IIIT Bhagalpur)<br>
-🚀 **Ambition:** Striving every day to evolve into a tech enthusiast and innovator.
+
+-📍 **Location:** Lucknow, Uttar Pradesh <br>
+-🏛️ **Education:**  Indian Institute of Information Technology, Bhagalpur (IIIT Bhagalpur)<br>
+-🚀 **Ambition:** Striving every day to evolve into a tech enthusiast and innovator.
 
 ---
 
