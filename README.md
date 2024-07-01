@@ -42,10 +42,12 @@
 
 # 🛠️ Skills
 
-- **Programming Languages:** Java, Python, C, C++ with dsa in java
-- **Web Development:** HTML, CSS, JavaScript, AngularJS, Node.js
-- **Database Management:** SQL, MongoDB
-- **Tools & Software:** MS Office Suite, Canva, Figma (UI/UX)
+- **Programming Languages:** C, C++, DSA, JavaScript, Python, PHP, SQL
+- **Front-End Technologies:** HTML, CSS, React, Tailwind CSS, Bootstrap, SCSS
+- **Backend technologies:** Django, Node.js
+- **Database Management:** MongoDB, My-SQL
+- **Tools & Software:** VS Code, Git, Git-hub , Git-Bash
+- **Deployments:** GitHub-Pages, vercel, 000webhost, infinityFree
   
 ---
 
