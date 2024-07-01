@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek5165" alt="Abhishek" /> </p>
 <img align="right" alt="Coding" width="500" height="325px" position="relative" top="100px" src="https://previews.123rf.com/images/peshkov/peshkov1908/peshkov190800349/129442355-hacker-at-desktop-using-laptop-with-creative-glowing-big-data-interface-malware-and-futuristic.jpg">
 👋 Hello I'm <strong> Abhishek !</strong><br>😊 A passionate web developer from India.<br>📕I am currently pursuing my B.Tech from Indian Institute of Information Technology Bhagalpur,Bihar.<br><br>🤝I love to work in groups where everyone can voice their opinions and ideas.<br>
-🏏I like to play chess and cricket.<br>🌱 I’m currently learning <strong> Django, Node JS </strong><br>💬 Ask me about DSA , Web<br>📫 Email Me - <a href="https://gmail.com">abhishek1310verma@gmail.com</a>
+🏏I like to play chess and cricket.<br>🌱 I’m currently learning <strong> Django, Node JS </strong><br>💬 Ask me about DSA , Web Development<br>📫 Email Me - <a href="https://gmail.com">abhishek1310verma@gmail.com</a>
 
 ---
 
@@ -40,11 +40,11 @@
 
 ---
 
-# 🛠️ Skills
+# 🛠️ Skills:
 
 - **Programming Languages:** C, C++, DSA, JavaScript, Python, PHP, SQL
 - **Front-End Technologies:** HTML, CSS, React, Tailwind CSS, Bootstrap, SCSS
-- **Backend technologies:** Django, Node.js
+- **Backend Technologies:** Django, Node.js
 - **Database Management:** MongoDB, My-SQL
 - **Tools & Software:** VS Code, Git, Git-hub , Git-Bash
 - **Deployments:** GitHub-Pages, vercel, 000webhost, infinityFree
