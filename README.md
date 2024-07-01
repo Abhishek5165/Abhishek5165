@@ -30,7 +30,7 @@
 <a href="mailto:abhishek1310verma@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="25">
 </a>
-<a href="https://twitter.com/yashasviig">
+<a href="https://x.com/Abhishek_13107">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="25">
 </a>
 <a href="https://www.instagram.com/abhishek_v13/">
