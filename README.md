@@ -46,7 +46,7 @@
 - **Front-End Technologies:** HTML, CSS, React, Tailwind CSS, Bootstrap, SCSS
 - **Backend Technologies:** Django, Node.js
 - **Database Management:** MongoDB, My-SQL
-- **Tools & Software:** VS Code, Git, Git-hub , Git-Bash
+- **Tools & Software:** VS Code, Git, Git-hub , Git-Bash, Postman
 - **Deployments:** GitHub-Pages, vercel, 000webhost, infinityFree
   
 ---
