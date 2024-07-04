@@ -54,7 +54,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek5165&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek5165&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=monokai" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek5165&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
 </div>
 
