@@ -5,7 +5,7 @@
 
 
 -📍 **Location:** Lucknow, Uttar Pradesh <br>
--🏛️ **Education:**  Indian Institute of Information Technology, Bhagalpur (IIIT Bhagalpur)<br>
+-🏛️ **Education:**  Indian Institute of Information Technology, Bhagalpur **(IIIT Bhagalpur)**<br>
 -🚀 **Ambition:** Striving every day to evolve into a tech enthusiast and innovator.
 
 ---
