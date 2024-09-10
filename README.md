@@ -44,7 +44,7 @@
 
 - **Programming Languages:** C, C++, DSA, JavaScript, Python, PHP, SQL
 - **Front-End Technologies:** HTML, CSS, React, Tailwind CSS, Bootstrap, SCSS
-- **Backend Technologies:** Django, Node.js
+- **Backend Technologies:** Django, Node.js, Next.js
 - **Database Management:** MongoDB, My-SQL
 - **Tools & Software:** VS Code, Git, Git-hub , Git-Bash, Postman
 - **Deployments:** GitHub-Pages, vercel, 000webhost, infinityFree
