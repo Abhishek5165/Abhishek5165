@@ -135,3 +135,8 @@
 </a>
 </div>
 <br/>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=65&section=footer"/>
+</p>
