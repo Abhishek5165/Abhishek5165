@@ -23,9 +23,9 @@
 
 -✨ Student of life :)<br/>
 -📕I am currently pursuing my B.Tech from Indian Institute of Information Technology Bhagalpur(IIIT Bhagalpur), Bihar.<br/>
+-🤝I love to work in groups where everyone can voice their opinions and ideas.<br/>
 -🌱 I’m currently learning <strong> Django, Node JS </strong><br>
 -🏏I like to play chess and cricket.<br>
--🤝I love to work in groups where everyone can voice their opinions and ideas.<br/>
 -💬 Ask me about DSA , Web Development<br/>
 -📫 Email Me - <a href="https://gmail.com">abhishek1310verma@gmail.com</a><br/>
 -💻 Visit my [Portfolio](https://secret-lemon-xi.vercel.app/) for more details about me.
@@ -41,17 +41,59 @@
 - **Programming Languages:** C, C++, DSA, JavaScript, Python, PHP, SQL
 - **Front-End Technologies:** HTML, CSS, React, Tailwind CSS, Bootstrap, SCSS
 - **Backend Technologies:** Django, Node.js, Next.js, NumPy, pandas
-- **Database Management:** MongoDB, My-SQL
+- **Database Management:** MongoDB, My-SQL, Firebase
 - **Tools & Software:** VS Code, Git, Git-hub , Git-Bash, Postman
 - **Deployments:** GitHub-Pages, vercel, 000webhost, infinityFree
   
 ---
 
-# 📊 GitHub Stats:
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Abhishek5165">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek5165&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Abhishek5165">
+          <img align="center" src="https://streak-stats.demolab.com?user=Abhishek5165&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Abhishek5165/MeetOrbit">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek5165&repo=MeetOrbit&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="MeetOrbit" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Abhishek5165">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Abhihek5165&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek5165&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=monokai" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek5165&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek5165&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
