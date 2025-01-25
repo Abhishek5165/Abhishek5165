@@ -73,8 +73,8 @@
     <td width="50%">
       <h2 align="center">👉🏿 Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ 👈🏿</h2>
       <p align="center">
-        <a href="https://github.com/Abhishek5165/Advance-OAuth-2.0">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek5165&repo=Advance-OAuth-2.0&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Advance-OAuth-2.0" />
+        <a href="https://github.com/Abhishek5165/MeetOrbit">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek5165&repo=MeetOrbit&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="MeetOrbit" />
         </a>
       </p>
     </td>
