@@ -96,12 +96,29 @@
 
 ---
 
-<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories.</h3>
+<!--Contact Section--> 
 
-![](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:abhishek1310verma@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="abhishek1310verma@gmail.com" style="margin-bottom: 5px;" />
+</a>
 
----
+<a href="https://x.com/Abhishek_13107" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="Abhishek_13107" style="margin-bottom: 5px;" />
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek5165&theme=vue-dark&border_radius=5.1&card_width=1000)](https://git.io/streak-stats)
+<a href="https://www.instagram.com/abhishek_v13" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="abhishek_v13" style="margin-bottom: 5px;" />
+</a>
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder" width="100%" height="35%" alt="Jokes Card" />
+<a href="https://github.com/Abhishek5165" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Abhishek5165" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek-verma-600899247/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
