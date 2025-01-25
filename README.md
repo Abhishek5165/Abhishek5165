@@ -53,7 +53,7 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h2 align="center">🧣 Gɪᴛʜᴜʙ Sᴛᴀᴛs 🧣</h2>
       <p align="center">
         <a href="https://github.com/Abhishek5165">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek5165&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
@@ -61,7 +61,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h2 align="center">❗️Sᴛʀᴇᴀᴋ Sᴛᴀᴛs❗️</h2>
       <p align="center">
         <a href="https://github.com/Abhishek5165">
           <img align="center" src="https://streak-stats.demolab.com?user=Abhishek5165&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
@@ -71,20 +71,18 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h2 align="center">👉🏿 Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ 👈🏿</h2>
       <p align="center">
-        <a href="https://github.com/Abhishek5165/MeetOrbit">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek5165&repo=MeetOrbit&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="MeetOrbit" />
+        <a href="https://github.com/Abhishek5165/Advance-OAuth-2.0">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek5165&repo=Advance-OAuth-2.0&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Advance-OAuth-2.0" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
       <p align="center">
-        <a href="https://github.com/Abhishek5165">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Abhihek5165&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Have%20the%20courage%20to%20follow%20your%20heart%20and%20intuition.%20They%20somehow%20know%20what%20you%20truly%20want%20to%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
     </td>
   </tr>
 </table>
