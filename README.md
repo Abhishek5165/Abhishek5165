@@ -12,20 +12,30 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Abhishek! 
+*Full-Stack Developer / Programmer*
 <br /> 
 
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
-👋 Hello I'm <strong> Abhishek !</strong><br>😊 A passionate web developer from India.<br>📕I am currently pursuing my B.Tech from Indian Institute of Information Technology Bhagalpur,Bihar.<br><br>🤝I love to work in groups where everyone can voice their opinions and ideas.<br>
-🏏I like to play chess and cricket.<br>🌱 I’m currently learning <strong> Django, Node JS </strong><br>💬 Ask me about DSA , Web Development<br>📫 Email Me - <a href="https://gmail.com">abhishek1310verma@gmail.com</a>
+<p align="left">😊 I'm a passionate Full Stack Developer and programming enthusiast, fueled by a deep love for Python, React.js, Node.js, RDBMS, and SQL! 🚀</p>
+
+-✨ Student of life :)<br/>
+-📕I am currently pursuing my B.Tech from Indian Institute of Information Technology Bhagalpur(IIIT Bhagalpur), Bihar.<br/>
+-🤝I love to work in groups where everyone can voice their opinions and ideas.<br/>
+-🏏I like to play chess and cricket.<br>
+-🌱 I’m currently learning <strong> Django, Node JS </strong><br>
+-💬 Ask me about DSA , Web Development<br/>
+-📫 Email Me - <a href="https://gmail.com">abhishek1310verma@gmail.com</a><br/>
+-💻 Visit my [Portfolio](https://secret-lemon-xi.vercel.app/) for more details about me.
 <br/>
 <br/>
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Abhishek5165&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Abhishek5165" style="padding-right:20px;" />
 </p>
+
 # 🛠️ Skills:
 
 - **Programming Languages:** C, C++, DSA, JavaScript, Python, PHP, SQL
