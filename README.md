@@ -1,5 +1,5 @@
 <!--Banner-->
-![Abhishek5165 Banner Image](https://github.com/Abhishek5165/Abhishek5165/blob/main/banner1.png)
+![Abhishek5165 Banner Image](https://github.com/Abhishek5165/Abhishek5165/blob/main/banner.gif)
 
 # Let's get into my journey !
 
