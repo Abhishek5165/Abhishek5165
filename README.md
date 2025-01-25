@@ -10,36 +10,22 @@
 
 ---
 
-# 💫 About Me:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek5165" alt="Abhishek" /> </p>
-<img align="right" alt="Coding" width="500" height="325px" position="relative" top="100px" src="https://previews.123rf.com/images/peshkov/peshkov1908/peshkov190800349/129442355-hacker-at-desktop-using-laptop-with-creative-glowing-big-data-interface-malware-and-futuristic.jpg">
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Abhishek! 
+<br /> 
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 👋 Hello I'm <strong> Abhishek !</strong><br>😊 A passionate web developer from India.<br>📕I am currently pursuing my B.Tech from Indian Institute of Information Technology Bhagalpur,Bihar.<br><br>🤝I love to work in groups where everyone can voice their opinions and ideas.<br>
 🏏I like to play chess and cricket.<br>🌱 I’m currently learning <strong> Django, Node JS </strong><br>💬 Ask me about DSA , Web Development<br>📫 Email Me - <a href="https://gmail.com">abhishek1310verma@gmail.com</a>
-
----
-
-# 🌐 Socials:
-
-<div>
-    <a href="https://www.linkedin.com/in/abhishek-verma-600899247/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25">
-</a>
-<a href="https://github.com/Abhishek5165">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="25">
-</a>
-<a href="https://gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="25">
-</a>
-<a href="https://x.com/Abhishek_13107">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="25">
-</a>
-<a href="https://www.instagram.com/abhishek_v13/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25">
-</a>
-</div>
-
----
-
+<br/>
+<br/>
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Abhishek5165&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Abhishek5165" style="padding-right:20px;" />
+</p>
 # 🛠️ Skills:
 
 - **Programming Languages:** C, C++, DSA, JavaScript, Python, PHP, SQL
