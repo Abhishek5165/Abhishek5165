@@ -23,9 +23,9 @@
 
 -✨ Student of life :)<br/>
 -📕I am currently pursuing my B.Tech from Indian Institute of Information Technology Bhagalpur(IIIT Bhagalpur), Bihar.<br/>
--🤝I love to work in groups where everyone can voice their opinions and ideas.<br/>
--🏏I like to play chess and cricket.<br>
 -🌱 I’m currently learning <strong> Django, Node JS </strong><br>
+-🏏I like to play chess and cricket.<br>
+-🤝I love to work in groups where everyone can voice their opinions and ideas.<br/>
 -💬 Ask me about DSA , Web Development<br/>
 -📫 Email Me - <a href="https://gmail.com">abhishek1310verma@gmail.com</a><br/>
 -💻 Visit my [Portfolio](https://secret-lemon-xi.vercel.app/) for more details about me.
@@ -40,7 +40,7 @@
 
 - **Programming Languages:** C, C++, DSA, JavaScript, Python, PHP, SQL
 - **Front-End Technologies:** HTML, CSS, React, Tailwind CSS, Bootstrap, SCSS
-- **Backend Technologies:** Django, Node.js, Next.js
+- **Backend Technologies:** Django, Node.js, Next.js, NumPy, pandas
 - **Database Management:** MongoDB, My-SQL
 - **Tools & Software:** VS Code, Git, Git-hub , Git-Bash, Postman
 - **Deployments:** GitHub-Pages, vercel, 000webhost, infinityFree
