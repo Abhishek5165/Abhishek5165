@@ -74,10 +74,11 @@
       </p>
     </td>
     <td width="50%">
-      <h2 align="center">❗️Sᴛʀᴇᴀᴋ Sᴛᴀᴛs❗️</h2>
+      <h2 align="center">❗️Language Sᴛᴀᴛs❗️</h2>
       <p align="center">
         <a href="https://github.com/Abhishek5165">
-          <img align="center" src="https://streak-stats.demolab.com?user=Abhishek5165&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+<!--           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek5165&bg_color=2E0331&title_color=FFEB95&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Abhishek5165 Language Stats" /> -->
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek5165&bg_color=2E0331&title_color=FFEB95&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&layout=compact&card_width=450" alt="Abhishek5165 Language Stats" />
         </a>
       </p>
     </td>
