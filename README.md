@@ -22,7 +22,6 @@
 <p align="left">😊 I'm a passionate Full Stack Developer and programming enthusiast, fueled by a deep love for Python, React.js, Node.js, RDBMS, and SQL! 🚀</p>
 
 -✨ Student of life :)<br/>
--📕I am currently pursuing my B.Tech from Indian Institute of Information Technology Bhagalpur(IIIT Bhagalpur), Bihar.<br/>
 -🤝I love to work in groups where everyone can voice their opinions and ideas.<br/>
 -🌱 I’m currently learning <strong> Django</strong><br>
 -🏏I like to play chess and cricket.<br>
