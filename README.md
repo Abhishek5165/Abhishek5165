@@ -19,8 +19,11 @@
 *Full-Stack Developer / Programmer*
 
 <div>
-  <a href="https://app.daily.dev/abhishekverma36"><img align="right" src="https://api.daily.dev/devcards/v2/YU0Vv5W4ok56pfNSUVQkJ.png?r=626&type=default" width="356" alt="Abhishek's Dev Card"/></a>
+  
   <p align="left">
+  <a href="https://app.daily.dev/abhishekverma36"><img align="right" src="https://github.com/Abhishek5165/Abhishek5165/blob/main/abhishekverma36%20(1).png?r=626&type=default" width="356" alt="Abhishek's Dev Card"/></a><p/>
+  
+  <p align="left" hight="1920px">
     😊 I'm a passionate Full Stack Developer and programming enthusiast, fueled by a deep love for Python, JAVA, React.js, Node.js, Databases, and SQL! 🚀
   </p>
   <ul>
