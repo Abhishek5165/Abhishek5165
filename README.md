@@ -46,10 +46,12 @@
 
 ---
 
+<br />
+
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/Abhishek5165">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abhishek5165&theme=monokai&no-bg=true&margin-w=20&margin-h=20" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Abhishek5165&theme=monokai&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -62,13 +64,13 @@
     <td width="50%" align="center">
       <h3>🧣 Gɪᴛʜᴜʙ Sᴛᴀᴛs 🧣</h3>
       <a href="https://github.com/Abhishek5165">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek5165&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek5165&show_icons=true&bg_color=220a28&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true" alt="GitHub Stats" width="100%" />
       </a>
     </td>
     <td width="50%" align="center">
       <h3>❗️ Language Sᴛᴀᴛs ❗️</h3>
       <a href="https://github.com/Abhishek5165">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Abhishek5165&theme=nightowl&layout=compact&card_width=400&bg_color=2E0331&title_color=FFEB95&text_color=FFFFFF" alt="Top Langs" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Abhishek5165&layout=compact&card_width=400&bg_color=220a28&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true" alt="Top Langs" width="100%" />
       </a>
     </td>
   </tr>
@@ -76,15 +78,16 @@
     <td width="50%" align="center">
       <h3>🔥 Latest Project 🔥</h3>
       <a href="https://github.com/Abhishek5165/Coder-quest">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Abhishek5165&repo=Coder-quest&theme=nightowl&bg_color=000000,441350&title_color=c56a90&text_color=ffffff" alt="Coder-quest" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Abhishek5165&repo=Coder-quest&bg_color=220a28&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true" alt="Coder-quest" width="100%" />
       </a>
     </td>
     <td width="50%" align="center">
       <h3>🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h3>
-      <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" width="100%" />
+      <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" width="100%" />
     </td>
   </tr>
 </table>
+
 
 <br />
 
