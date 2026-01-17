@@ -23,17 +23,17 @@
   <tr>
     <td width="60%" valign="top">
         <p><br>
-       &nbsp;&nbsp;&nbsp;&nbsp;😊 I'm a results-driven <b>Full-Stack Developer</b> and programming enthusiast, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bridging the gap between academic excellence and professional engineering.
-			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have a deep-seated passion for building scalable solutions using <b>Python,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JAVA,X React.js, and Node.js.</b> 🚀
+       😊 I'm a results-driven <b>Full-Stack Developer</b> and programming enthusiast, bridging the gap between academic excellence and professional engineering.
+			 I have a deep-seated passion for building scalable solutions using <b>Python, JAVA,X React.js, and Node.js.</b> 🚀
         </p>
     <ul>
-    <li>🏢 <b>Professional<b>: Starting my journey at <b>TCS Digital</b> as a <b>System Engineer</b>, focusing on high-performance systems and enterprise solutions.</li>
-    <li>🎓 **Education:** Proud graduate of <b>Indian Institute of Information Technology, Bhagalpur</b>.</li>
-    <li>🌱 **Continuous Learning:** Deepening my expertise in <b>UNIX</b> and cloud architecture.</li>
-    <li>⚔️ **DSA & Web Dev:** Always up for a challenge in <b>Data Structures</b> or building modern <b>Full-Stack</b> applications.</li>
-    <li>💡 **Impact:** Active <b>Subject Matter Expert at Chegg India</b> and 2x <b>ServiceNow Certified</b> Professional.</li>
-    <li>📫 **Connect:** Reach me at <a href="mailto:abhishek1310verma@gmail.com">abhishek1310verma@gmail.com</a></li>
-    <li>💻 **Explore:** See my work at my <a href="https://secret-lemon-xi.vercel.app/">Portfolio</a>.</li>
+    <li>🏢 <b>Professional<b>: Starting my journey at <b>TCS </b> as a <b>System Engineer Grade C1 (TCS Digital)</b>, focusing on high-performance systems and enterprise solutions.</li>
+    <li>🎓 <b>Education:<b> Proud graduate of <b>Indian Institute of Information Technology, Bhagalpur</b>.</li>
+    <li>🌱 <b>Continuous Learning:<b> Deepening my expertise in <b>UNIX</b> and cloud architecture.</li>
+	<li>🤝 <b>I love to work in groups where everyone can voice their opinions and ideas.</b></li>
+    <li>⚔️ <b>DSA & Web Dev:<b> Always up for a challenge in <b>Data Structures</b> or building modern <b>Full-Stack</b> applications.</li>
+    <li>📫 <b>Connect:<b> Reach me at <a href="mailto:abhishek1310verma@gmail.com">abhishek1310verma@gmail.com</a></li>
+    <li>💻 <b>Explore:<b> See my work at my <a href="https://secret-lemon-xi.vercel.app/">Portfolio</a></li>
   </ul>
   <br>
       <img src="https://komarev.com/ghpvc/?username=Abhishek5165&label=PROFILE%20VIEWS&color=770677&style=for-the-badge" alt="Profile Views" />
@@ -47,10 +47,6 @@
 </table>
 
 <br>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Abhishek5165&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Abhishek5165" />
-</p>
 
 # 🛠️ Skills:
 <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
