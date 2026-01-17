@@ -49,14 +49,15 @@
 <br>
 
 # 🛠️ Skills:
-<img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
 - **Programming Languages:** C, C++, DSA, JavaScript, Python,JAVA, PHP, SQL
 - **Front-End Technologies:** HTML, CSS, React, Tailwind CSS, Bootstrap, SCSS
 - **Backend Technologies:** Django, Node.js, Next.js, NumPy, pandas
 - **Database Management:** MongoDB, My-SQL, Firebase, UNIX
 - **Tools & Software:** VS Code, Git, GitHub, Git-Bash, Postman
 - **Deployments:** GitHub-Pages, Vercel, 000webhost, InfinityFree
-
+<img align="right" width="280" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Party Owl">
+<br clear="right">
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 #### **Bad News:**  
@@ -68,7 +69,7 @@
 
 -----------------------------------------------------------------------------------------------------------------
 
-<details>
+<!-- <details>
   <summary>🏆 Certificates</summary>
   <br>
 
@@ -92,7 +93,7 @@
 | 11. | RHEL Automation with Ansible (294) | RedHat | December 2022 | [View](https://drive.google.com/file/d/16OB5BpfLHIomVgyDGVxkraTp9_VQ7YmH/view?usp=drive_link) |
 | 12. | AWS Cloud with AI | LinuxWorld Informatics Pvt. Ltd. | August 2023 | [View](https://drive.google.com/file/d/1Obk4hSorYG2XjcTG2nPjk4W1_uiPIIrE/view?usp=sharing) |
   
-</details>
+</details> -->
 
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
