@@ -6,6 +6,7 @@
 
 - 📍 **Location:** Lucknow, Uttar Pradesh, India
 - 🏛️ **Education:** Indian Institute of Information Technology, Bhagalpur **(IIIT Bhagalpur)**
+- 🥷 **Employment:** <b>System Engineer Grade C1 (TCS Digital) @ TCS (Tata Consultancy Services Limited)</b>
 - 🚀 **Ambition:** Striving every day to evolve into a tech enthusiast and innovator.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -18,24 +19,33 @@
 
 *Full-Stack Developer / Programmer*
 
-<div>
-  
-  <p align="left">
-  <a href="https://app.daily.dev/abhishekverma36"><img align="right" src="https://github.com/Abhishek5165/Abhishek5165/blob/main/abhishekverma36%20(1).png?r=626&type=default" width="356" alt="Abhishek's Dev Card"/></a><p/>
-  
-  <p align="left" hight="1920px">
-    😊 I'm a passionate Full Stack Developer and programming enthusiast, fueled by a deep love for Python, JAVA, React.js, Node.js, Databases, and SQL! 🚀
-  </p>
-  <ul>
-    <li>✨ Student of life :)</li>
-    <li>🤝 I love to work in groups where everyone can voice their opinions and ideas.</li>
-    <li>🌱 I’m currently learning <strong>UNIX</strong></li>
-    <li>🏏 I like to play chess and cricket.</li>
-    <li>💬 Ask me about <strong>DSA, Web Development</strong></li>
-    <li>📫 Email Me - <a href="mailto:abhishek1310verma@gmail.com">abhishek1310verma@gmail.com</a></li>
-    <li>💻 Visit my <a href="https://secret-lemon-xi.vercel.app/">Portfolio</a> for more details.</li>
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+        <p><br>
+       &nbsp;&nbsp;&nbsp;&nbsp;😊 I'm a results-driven <b>Full-Stack Developer</b> and programming enthusiast, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bridging the gap between academic excellence and professional engineering.
+			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have a deep-seated passion for building scalable solutions using <b>Python,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JAVA,X React.js, and Node.js.</b> 🚀
+        </p>
+    <ul>
+    <li>🏢 <b>Professional<b>: Starting my journey at <b>TCS Digital</b> as a <b>System Engineer</b>, focusing on high-performance systems and enterprise solutions.</li>
+    <li>🎓 **Education:** Proud graduate of <b>Indian Institute of Information Technology, Bhagalpur</b>.</li>
+    <li>🌱 **Continuous Learning:** Deepening my expertise in <b>UNIX</b> and cloud architecture.</li>
+    <li>⚔️ **DSA & Web Dev:** Always up for a challenge in <b>Data Structures</b> or building modern <b>Full-Stack</b> applications.</li>
+    <li>💡 **Impact:** Active <b>Subject Matter Expert at Chegg India</b> and 2x <b>ServiceNow Certified</b> Professional.</li>
+    <li>📫 **Connect:** Reach me at <a href="mailto:abhishek1310verma@gmail.com">abhishek1310verma@gmail.com</a></li>
+    <li>💻 **Explore:** See my work at my <a href="https://secret-lemon-xi.vercel.app/">Portfolio</a>.</li>
   </ul>
-</div>
+  <br>
+      <img src="https://komarev.com/ghpvc/?username=Abhishek5165&label=PROFILE%20VIEWS&color=770677&style=for-the-badge" alt="Profile Views" />
+    </td>
+    <td width="40%" align="center" valign="top">
+      <br>
+      <a href="https://app.daily.dev/abhishekverma36"><img src="https://api.daily.dev/devcards/v2/llUBlSeBSDRj8womjXeUk.png?type=default&r=ayc" width="356" alt="ABHISHEK VERMA's Dev Card"/></a>
+      <br>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <p align="left">
