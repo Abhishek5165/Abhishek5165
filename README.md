@@ -10,10 +10,12 @@
 
 ---
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Abhishek! 
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35" style="vertical-align:middle"/> 
+  Hey ɪ'ᴍ <a href="https://www.linkedin.com/in/abhishek-verma-600899247/">Abhishek!</a> 
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="35" style="vertical-align:middle"/>
+</h1>
 *Full-Stack Developer / Programmer*
-
-<br /> 
 
 <div>
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
