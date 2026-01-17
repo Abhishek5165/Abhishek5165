@@ -81,18 +81,18 @@
     <td width="50%" align="center">
       <h3>🧣 Gɪᴛʜᴜʙ Sᴛᴀᴛs 🧣</h3>
       <a href="https://github.com/Abhishek5165">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek5165&show_icons=true&bg_color=220a28&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek5165&show_icons=true&bg_color=220a28&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=false" alt="GitHub Stats" width="100%" />
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="60%" align="center">
       <h3>❗️ Language Sᴛᴀᴛs ❗️</h3>
       <a href="https://github.com/Abhishek5165">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Abhishek5165&layout=compact&card_width=400&bg_color=220a28&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true" alt="Top Langs" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Abhishek5165&layout=compact&card_width=320&bg_color=220a28&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=false" alt="Top Langs" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="53%" align="center">
       <h3>🔥 Latest Project 🔥</h3>
       <a href="https://github.com/Abhishek5165/Coder-quest">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Abhishek5165&repo=Coder-quest&bg_color=220a28&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&hide_border=true" alt="Coder-quest" width="100%" />
