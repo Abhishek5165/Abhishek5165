@@ -49,7 +49,13 @@
 
 ---
 
-<br />
+#### **Bad News:**  
+> No matter how hard you try to protect yourself, one day, you will fail.
+
+####  **Good News:**  
+> When you fail, each passing day,  
+> it opens you up to new possibilities, often helping you emerge as the best version of you.
+
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
@@ -61,6 +67,14 @@
 <br />
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="700em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek5165&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
 
 <table align="center" width="100%">
   <tr>
