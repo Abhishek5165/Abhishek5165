@@ -62,13 +62,13 @@
     <td width="50%" align="center">
       <h3>🧣 Gɪᴛʜᴜʙ Sᴛᴀᴛs 🧣</h3>
       <a href="https://github.com/Abhishek5165">
-        <img src="https://github-readme-stats.vercel.app/api?username=Abhishek5165&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek5165&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs" alt="GitHub Stats" width="100%" />
       </a>
     </td>
     <td width="50%" align="center">
       <h3>❗️ Language Sᴛᴀᴛs ❗️</h3>
       <a href="https://github.com/Abhishek5165">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek5165&theme=nightowl&layout=compact&card_width=400&bg_color=2E0331&title_color=FFEB95&text_color=FFFFFF" alt="Top Langs" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Abhishek5165&theme=nightowl&layout=compact&card_width=400&bg_color=2E0331&title_color=FFEB95&text_color=FFFFFF" alt="Top Langs" width="100%" />
       </a>
     </td>
   </tr>
@@ -76,12 +76,12 @@
     <td width="50%" align="center">
       <h3>🔥 Latest Project 🔥</h3>
       <a href="https://github.com/Abhishek5165/Coder-quest">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek5165&repo=Coder-quest&theme=nightowl&bg_color=000000,441350&title_color=c56a90&text_color=ffffff" alt="Coder-quest" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Abhishek5165&repo=Coder-quest&theme=nightowl&bg_color=000000,441350&title_color=c56a90&text_color=ffffff" alt="Coder-quest" width="100%" />
       </a>
     </td>
     <td width="50%" align="center">
       <h3>🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h3>
-      <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Have%20the%20courage%20to%20follow%20your%20heart%20and%20intuition.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" width="100%" />
+      <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" width="100%" />
     </td>
   </tr>
 </table>
@@ -100,10 +100,4 @@
 <a href="mailto:abhishek1310verma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/abhishek-verma-600899247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/Abhishek_13107"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.instagram.com/abhishek_v13"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<br/>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=65&section=footer"/>
-</p>
+<a href="https://www
