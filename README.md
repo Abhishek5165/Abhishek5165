@@ -22,8 +22,8 @@
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-        <p><br>
-       😊 I'm a results-driven <b>Full-Stack Developer</b> and programming enthusiast, bridging the gap between academic excellence and professional engineering.
+        <p align="justify" ><br>
+             I'm a results-driven <b>Full-Stack Developer</b> and <b>programming enthusiast<b>, bridging the gap between academic excellence and professional engineering.
 			 I have a deep-seated passion for building scalable solutions using <b>Python, JAVA,X React.js, and Node.js.</b> 🚀
         </p>
     <ul>
