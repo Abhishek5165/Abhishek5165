@@ -12,15 +12,16 @@
 
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35" style="vertical-align:middle"/> 
-  Hey ɪ'ᴍ <a href="https://www.linkedin.com/in/abhishek-verma-600899247/">Abhishek!</a> 
+  Hey there ɪ'ᴍ <a href="https://www.linkedin.com/in/abhishek-verma-600899247/">Abhishek Verma!</a> 
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="35" style="vertical-align:middle"/>
 </h1>
+
 *Full-Stack Developer / Programmer*
 
 <div>
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
   <p align="left">
-    😊 I'm a passionate Full Stack Developer and programming enthusiast, fueled by a deep love for Python, React.js, Node.js, RDBMS, and SQL! 🚀
+    😊 I'm a passionate Full Stack Developer and programming enthusiast, fueled by a deep love for Python, JAVA, React.js, Node.js, Databases, and SQL! 🚀
   </p>
   <ul>
     <li>✨ Student of life :)</li>
@@ -39,10 +40,10 @@
 
 # 🛠️ Skills:
 
-- **Programming Languages:** C, C++, DSA, JavaScript, Python, PHP, SQL
+- **Programming Languages:** C, C++, DSA, JavaScript, Python,JAVA, PHP, SQL
 - **Front-End Technologies:** HTML, CSS, React, Tailwind CSS, Bootstrap, SCSS
 - **Backend Technologies:** Django, Node.js, Next.js, NumPy, pandas
-- **Database Management:** MongoDB, My-SQL, Firebase
+- **Database Management:** MongoDB, My-SQL, Firebase, UNIX
 - **Tools & Software:** VS Code, Git, GitHub, Git-Bash, Postman
 - **Deployments:** GitHub-Pages, Vercel, 000webhost, InfinityFree
 
