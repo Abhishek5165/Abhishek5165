@@ -4,9 +4,9 @@
 
 # Let's get into my journey !
 
-- 📍 **Location:** Lucknow, Uttar Pradesh, India
-- 🏛️ **Education:** Indian Institute of Information Technology, Bhagalpur **(IIIT Bhagalpur)**
-- 🥷 **Employment:** <b>System Engineer Grade C1 (TCS Digital) @ TCS (Tata Consultancy Services Limited)</b>
+- 📍 **Location:** Lucknow, Uttar Pradesh, India.
+- 🏛️ **Education:** Indian Institute of Information Technology, Bhagalpur **(IIIT Bhagalpur).**
+- 🥷 **Employment:** <b>System Engineer Grade C1 (TCS Digital) @ TCS (Tata Consultancy Services Limited).</b>
 - 🚀 **Ambition:** Striving every day to evolve into a tech enthusiast and innovator.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -28,7 +28,7 @@
         </p>
     <ul>
     <li>🏢 <b>Professional<b>: Starting my journey at <b>TCS </b> as a <b>System Engineer Grade C1 (TCS Digital)</b>, focusing on high-performance systems and enterprise solutions.</li>
-    <li>🎓 <b>Education:<b> Proud graduate of <b>Indian Institute of Information Technology, Bhagalpur</b>.</li>
+    <li>🎓 <b>Education:<b> Proud graduate of <b>Indian Institute of Information Technology, Bhagalpur <b>(IIIT Bhagalpur)</b></b>.</li>
     <li>🌱 <b>Continuous Learning:<b> Deepening my expertise in <b>UNIX</b> and cloud architecture.</li>
 	<li>🤝 <b>I love to work in groups where everyone can voice their opinions and ideas.</b></li>
     <li>⚔️ <b>DSA & Web Dev:<b> Always up for a challenge in <b>Data Structures</b> or building modern <b>Full-Stack</b> applications.</li>
@@ -40,7 +40,7 @@
     </td>
     <td width="40%" align="center" valign="top">
       <br>
-      <a href="https://app.daily.dev/abhishekverma36"><img src="https://api.daily.dev/devcards/v2/llUBlSeBSDRj8womjXeUk.png?type=default&r=ayc" width="356" alt="ABHISHEK VERMA's Dev Card"/></a>
+      <a href="https://app.daily.dev/abhishekverma36"><img src="https://api.daily.dev/devcards/v2/llUBlSeBSDRj8womjXeUk.png?type=default&r=ayc" width="356" alt="ABHISHEK VERMA's Dev Card"/></a>  <br>
       <br>
     </td>
   </tr>
