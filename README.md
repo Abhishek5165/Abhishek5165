@@ -48,24 +48,26 @@
 
 <br>
 
-# 🛠️ Skills:
+# 🛠️ Skills: <img src='https://user-images.githubusercontent.com/74031890/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35">
 
-- **Programming Languages:** C, C++, DSA, JavaScript, Python,JAVA, PHP, SQL
+<img hspace="120" align="right" width="200" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Party Owl">
+
+- **Programming Languages:** C, C++, DSA, JavaScript, Python, JAVA, PHP, SQL
 - **Front-End Technologies:** HTML, CSS, React, Tailwind CSS, Bootstrap, SCSS
 - **Backend Technologies:** Django, Node.js, Next.js, NumPy, pandas
 - **Database Management:** MongoDB, My-SQL, Firebase, UNIX
 - **Tools & Software:** VS Code, Git, GitHub, Git-Bash, Postman
 - **Deployments:** GitHub-Pages, Vercel, 000webhost, InfinityFree
-<img align="right" width="280" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Party Owl">
-<br clear="right">
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-#### **Bad News:**  
+<br clear="right">
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+#### **Bad News:**
 > No matter how hard you try to protect yourself, one day, you will fail.
 
-####  **Good News:**  
-> When you fail, each passing day,  
-> it opens you up to new possibilities, often helping you emerge as the best version of you.
+#### **Good News:**
+> When you fail, each passing day, it opens you up to new possibilities, often helping you emerge as the best version of you.
 
 -----------------------------------------------------------------------------------------------------------------
 
