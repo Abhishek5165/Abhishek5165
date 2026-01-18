@@ -48,9 +48,9 @@
 
 <br>
 
-# 🛠️ Skills: <img src='https://user-images.githubusercontent.com/74031890/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35">
+# 🛠️ Skills:
 
-<img hspace="120" align="right" width="200" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Party Owl">
+<img hspace="90" align="right" width="200" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Party Owl">
 
 - **Programming Languages:** C, C++, DSA, JavaScript, Python, JAVA, PHP, SQL
 - **Front-End Technologies:** HTML, CSS, React, Tailwind CSS, Bootstrap, SCSS
