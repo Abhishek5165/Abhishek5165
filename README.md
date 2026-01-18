@@ -97,15 +97,17 @@
   
 </details> -->
 
-
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Abhishek5165">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abhishek5165&theme=monokai&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  </a>
-</p>
-
 <br />
+
+<h2 align="center">💗 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 💗</h2>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img src="https://github-trophies.vercel.app/?username=Abhishek5165&theme=radical&row=1&column=6&margin-w=4&no-bg=false" alt="GitHub Trophies">
+</td>
+</tr>
+</table>
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
@@ -158,7 +160,10 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <p align="center">
-<a href="mailto:abhishek1310verma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/abhishek-verma-600899247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/Abhishek_13107"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.instagram.com/abhishek_v13"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+	<a href="mailto:abhishek1310verma@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
+	<a href="https://github.com/Abhishek5165"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/abhishek-verma-600899247/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+	 <a href="https://x.com/Abhishek_13107"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a> 
+	 <a href="https://www.instagram.com/abhishek_v13"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA8112&height=70&section=footer"/>
