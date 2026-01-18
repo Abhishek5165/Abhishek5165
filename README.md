@@ -6,7 +6,7 @@
 
 - 📍 **Location:** Lucknow, Uttar Pradesh, India.
 - 🏛️ **Education:** Indian Institute of Information Technology, Bhagalpur **(IIIT Bhagalpur).**
-- 🥷 **Employment:** <b>System Engineer Grade C1 (TCS Digital) @ TCS (Tata Consultancy Services Limited).</b>
+- 🥷 **Employment:** <b>System Engineer in Grade C1 (TCS Digital) @ TCS (Tata Consultancy Services Limited).</b>
 - 🚀 **Ambition:** Striving every day to evolve into a tech enthusiast and innovator.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -27,7 +27,7 @@
 			 I have a deep-seated passion for building scalable solutions using <b>Python, JAVA, React.js, and Node.js.</b> 🚀
         </p>
     <ul>
-    <li>🏢 <b>Professional<b>: Starting my journey at <b>TCS </b> as a <b>System Engineer Grade C1 (TCS Digital)</b>, focusing on high-performance systems and enterprise solutions.</li>
+    <li>🏢 <b>Professional<b>: Starting my journey at <b>TCS </b> as a <b>System Engineer in Grade C1 (TCS Digital)</b>, focusing on high-performance systems and enterprise solutions.</li>
     <li>🎓 <b>Education:<b> Proud graduate of <b>Indian Institute of Information Technology, Bhagalpur <b>(IIIT Bhagalpur)</b></b>.</li>
     <li>🌱 <b>Continuous Learning:<b> Deepening my expertise in <b>UNIX</b> and cloud architecture.</li>
 	<li>🤝 <b>I love to work in groups where everyone can voice their opinions and ideas.</b></li>
@@ -55,7 +55,8 @@
 | 4. | Certified System Administrator (ServiceNow) | ServiceNow | October 2024 | [View](https://drive.google.com/file/d/1d4xL8AUE1Mw72FG6Dg2a8ujgQLdvTAiQ/view?usp=sharing) |
 | 5. | Flipkart GRiD 6.0 - Software Development Track | Flipkart |  September 2024 | [View](https://drive.google.com/file/d/1IdgPlKZ-YkBy3-gf1g-56sEt0waKB-Cl/view?usp=sharing) |
 | 6. | TATA Crucible Campus Quiz 2024 | Tata Group |  November 2024 | [View](https://drive.google.com/file/d/1dHYKTQ-1GnaS5ze-pI3PGvabl15Jbjik/view?usp=sharing) |
-| 6. | Learning Java (LinkedIn) | LinkedIn | January 2026 | [View](https://drive.google.com/file/d/1et6OK06xTwIUSHPLK1FbYNPY0Zhn5IFR/view?usp=sharing) |
+| 7. | Learning Java (LinkedIn) | LinkedIn | January 2026 | [View](https://drive.google.com/file/d/1et6OK06xTwIUSHPLK1FbYNPY0Zhn5IFR/view?usp=sharing) |
+| 8. | Google Arcade 2023 | Google Arcade | January 2023 | [View](https://www.skills.google/public_profiles/065b4984-2547-4c3b-8831-c89cccc5976c) |
 
 </details>
 
