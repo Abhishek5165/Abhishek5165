@@ -97,8 +97,6 @@
   
 </details> -->
 
-<br />
-
 <h2 align="center">💗 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 💗</h2>
 
 <table width="100%" align="center">
@@ -148,15 +146,12 @@
   </tr>
 </table>
 
-
 <br />
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek5165&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" width="100%">
 </p>
-
----
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <p align="center">
