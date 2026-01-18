@@ -24,7 +24,7 @@
     <td width="60%" valign="top">
         <p align="justify" ><br>
              I'm a results-driven <b>Full-Stack Developer</b> and <b>programming enthusiast<b>, bridging the gap between academic excellence and professional engineering.
-			 I have a deep-seated passion for building scalable solutions using <b>Python, JAVA,X React.js, and Node.js.</b> 🚀
+			 I have a deep-seated passion for building scalable solutions using <b>Python, JAVA, React.js, and Node.js.</b> 🚀
         </p>
     <ul>
     <li>🏢 <b>Professional<b>: Starting my journey at <b>TCS </b> as a <b>System Engineer Grade C1 (TCS Digital)</b>, focusing on high-performance systems and enterprise solutions.</li>
@@ -35,9 +35,31 @@
     <li>📫 <b>Connect:<b> Reach me at <a href="mailto:abhishek1310verma@gmail.com">abhishek1310verma@gmail.com</a></li>
     <li>💻 <b>Explore:<b> See my work at my <a href="https://secret-lemon-xi.vercel.app/">Portfolio</a></li>
   </ul>
-  <br>
+	<br>
       <img src="https://komarev.com/ghpvc/?username=Abhishek5165&label=PROFILE%20VIEWS&color=770677&style=for-the-badge" alt="Profile Views" />
-    </td>
+<br><br>
+ <details>
+  <summary>🏆 Certificates</summary>
+  <br>
+
+
+📄 A curated collection of my skills in **Full-Stack**, **Coding** and **Cloud technologies**, validated by professional certifications from **ServiceNow**, **LinkedIn** and expertise contributed to platforms like **Chegg India**.
+
+<br>
+
+| S.No. | Certificate Name | Issuing Authority | Date | Credential |
+|:-----:|:-----------------|:------------------:|:----:|:----------:|
+| 1. | CodeKaze 2024 | Coding Ninja | September 2024 | [View](https://drive.google.com/file/d/1FXmKlHHIdOs4pbDqO3OAzwxE7BGxb92k/view?usp=sharing) |
+| 2. | SME (Subject Matter Expert) | Chegg India | November 2022 | [View](https://drive.google.com/file/d/1xZxqRTE7bv0xLRdRZQWX_WfAeTHCBvF4/view?usp=sharing) |
+| 3. | Certified Application Developer (ServiceNow) | ServiceNow | October 2024 | [View](https://drive.google.com/file/d/15AN52HpLqiEb9ZsMMG-Lhuq49alZTYVV/view?usp=sharing) |
+| 4. | Certified System Administrator (ServiceNow) | ServiceNow | October 2024 | [View](https://drive.google.com/file/d/1d4xL8AUE1Mw72FG6Dg2a8ujgQLdvTAiQ/view?usp=sharing) |
+| 5. | Flipkart GRiD 6.0 - Software Development Track | Flipkart |  September 2024 | [View](https://drive.google.com/file/d/1IdgPlKZ-YkBy3-gf1g-56sEt0waKB-Cl/view?usp=sharing) |
+| 6. | TATA Crucible Campus Quiz 2024 | Tata Group |  November 2024 | [View](https://drive.google.com/file/d/1dHYKTQ-1GnaS5ze-pI3PGvabl15Jbjik/view?usp=sharing) |
+| 6. | Learning Java (LinkedIn) | LinkedIn | January 2026 | [View](https://drive.google.com/file/d/1et6OK06xTwIUSHPLK1FbYNPY0Zhn5IFR/view?usp=sharing) |
+
+</details>
+
+</td>
     <td width="40%" align="center" valign="top">
       <br>
       <a href="https://app.daily.dev/abhishekverma36"><img src="https://api.daily.dev/devcards/v2/llUBlSeBSDRj8womjXeUk.png?type=default&r=ayc" width="356" alt="ABHISHEK VERMA's Dev Card"/></a>  <br>
@@ -70,32 +92,6 @@
 > When you fail, each passing day, it opens you up to new possibilities, often helping you emerge as the best version of you.
 
 -----------------------------------------------------------------------------------------------------------------
-
-<!-- <details>
-  <summary>🏆 Certificates</summary>
-  <br>
-
-
-📄 A curated collection of my skills in **Full-Stack**, **Coding** and **Cloud technologies**, validated by professional certifications from **ServiceNow**, **LinkedIn** and expertise contributed to platforms like **Chegg India**.
-
-<br>
-
-| S.No. | Certificate Name | Issuing Authority | Date | Credential |
-|:-----:|:-----------------|:------------------:|:----:|:----------:|
-| 1. | JAZBAA 2.0 | LinuxWorld Informatics Pvt. Ltd. | August 2023 | [View](https://www.linkedin.com/posts/md-azfar-alam_iiec-jazbaa-20-certificate-of-participation-activity-7142721202652856320-PFFs?utm_source=share&utm_medium=member_desktop) |
-| 2. | Summer Internship | LinuxWorld Informatics Pvt. Ltd. | September 2023 | [View](https://www.linkedin.com/posts/md-azfar-alam_summer-internship-certificate-activity-7108747092721905665-QnCj?utm_source=share&utm_medium=member_desktop) |
-| 3. | ARTH 3.0 | LinuxWorld Informatics Pvt. Ltd. | November 2023 | [View](https://www.linkedin.com/posts/md-azfar-alam_arth-30-certificate-of-completion-activity-7241412508819808257-kagj?utm_source=share&utm_medium=member_desktop) |
-| 4. | Industry Relevant AWS Training | LinuxWorld Informatics Pvt. Ltd. | May 2023 | [View](https://drive.google.com/file/d/1W3bKVgFCAL42-lmrM5qk1wbrs_zYkm-x/view?usp=sharing) |
-| 5. | Jenkins CI/CD using Pipeline | LinuxWorld Informatics Pvt. Ltd. | January 2023 | [View](https://drive.google.com/file/d/17kxGNilfTU39liWtKt4un149HNzX78QY/view?usp=sharing) |
-| 6. | Specialization in Container | LinuxWorld Informatics Pvt. Ltd. | April 2023 | [View](https://drive.google.com/file/d/1UkIQfQHMLSXLOeS_s8gFXm7cRoLNSZS5/view?usp=drive_link) |
-| 7. | Bash Shell Scripting | LinuxWorld Informatics Pvt. Ltd. | January 2023 | [View](https://drive.google.com/file/d/10E7r8sRuxEO5Cb8yw_O5jTzddHCnEzvI/view?usp=drive_link) |
-| 8. | MongoDB - NoSQL | LinuxWorld Informatics Pvt. Ltd. | April 2023 | [View](https://drive.google.com/file/d/1scEDURMvPz5K1CnCO8voyB2psHIO1P1c/view?usp=drive_link) |
-| 9. | Monitoring using Prometheus & Grafana | LinuxWorld Informatics Pvt. Ltd. | May 2023 | [View](https://drive.google.com/file/d/1Zth5UR3RRePJ3phIHjvcxigZEbcVsUfK/view?usp=drive_link) |
-| 10. | Managing Infrastructure using Terraform | LinuxWorld Informatics Pvt. Ltd. | February 2023 | [View](https://drive.google.com/file/d/1pyXT6jL1UIwyW2m8dLCtNs2mcELthOpi/view?usp=drive_link) |
-| 11. | RHEL Automation with Ansible (294) | RedHat | December 2022 | [View](https://drive.google.com/file/d/16OB5BpfLHIomVgyDGVxkraTp9_VQ7YmH/view?usp=drive_link) |
-| 12. | AWS Cloud with AI | LinuxWorld Informatics Pvt. Ltd. | August 2023 | [View](https://drive.google.com/file/d/1Obk4hSorYG2XjcTG2nPjk4W1_uiPIIrE/view?usp=sharing) |
-  
-</details> -->
 
 <h2 align="center">💗 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 💗</h2>
 
