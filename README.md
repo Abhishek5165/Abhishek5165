@@ -50,7 +50,7 @@
 
 # 🛠️ Skills:
 
-<img hspace="90" align="right" width="200" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Party Owl">
+<img hspace="60" align="right" width="200" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Party Owl">
 
 - **Programming Languages:** C, C++, DSA, JavaScript, Python, JAVA, PHP, SQL
 - **Front-End Technologies:** HTML, CSS, React, Tailwind CSS, Bootstrap, SCSS
